@@ -1,0 +1,33 @@
+* {
+    margin-top: 0;
+    padding: 0;
+    text-align: center;
+}
+
+body {
+    margin-top: 100px;
+}
+
+#name {
+    font-size: 50px;
+    color: palegreen;
+}
+
+#textBox {
+    width: 350px;
+    border: none;
+    font-size: 20px;
+    height: 40px;
+    background-color: darkgrey;
+}
+
+#btn {
+    background-color: lightcoral;
+    margin: 25px;
+    width: 120px;
+    height: 40px;
+}
+
+#btn:hover {
+    background-color: palegoldenrod;
+}
